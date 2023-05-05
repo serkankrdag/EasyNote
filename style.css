@@ -1,0 +1,92 @@
+body {
+	background-color: #f8f8f8;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+#notDefteri {
+	background-color: #fff;
+	margin: 50px auto;
+	max-width: 600px;
+	padding: 20px;
+	text-align: center;
+}
+
+#notDefteri h2 {
+	margin-bottom: 20px;
+}
+
+.not-form input[type="text"],
+.not-form textarea {
+	border: 1px solid #ccc;
+	display: block;
+	margin: 10px 0;
+	padding: 10px;
+	width: 100%;
+}
+
+.not-form textarea {
+	height: 100px;
+}
+
+.not-form button {
+	background-color: #008CBA;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	padding: 10px;
+	transition: background-color 0.3s ease;
+}
+
+.not-form button:hover {
+	background-color: #005F6B;
+}
+
+#notAra {
+	border: 1px solid #ccc;
+	display: block;
+	margin: 20px auto;
+	padding: 10px;
+	width: 100%;
+}
+
+#notListesi {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+#notListesi li {
+	background-color: #f8f8f8;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	padding: 10px;
+	position: relative;
+}
+
+#notListesi li h3 {
+	margin: 0 0 10px;
+}
+
+#notListesi li button {
+	background-color: #ff0000;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 10px;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	transition: background-color 0.3s ease;
+}
+
+#notListesi li button:hover {
+	background-color: #c80000;
+}
+
+#notListesi li p {
+	margin: 0;
+}
