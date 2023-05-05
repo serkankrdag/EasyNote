@@ -21,4 +21,4 @@ This project has been developed using only HTML, CSS, and JavaScript/JQuery. A s
 3. Enter the note title and note content in the form and click on "Save" button.
 4. The new note will be added to the list of notes.
 5. To delete a note, click on the delete button beside the note.
-6. To search for a note, enter the search keyword in the search bar, and the matching notes will be displayed.
+6. To search for a note, enter the search keyword in the search bar, and the matching notes will be displayed. 
