@@ -1,4 +1,4 @@
-# Simple Note-Taking App
+# Simple Note-Taking App 
 
 This is a basic note-taking app that allows users to store and view their notes.
 
